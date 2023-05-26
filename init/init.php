@@ -1,3 +1,3 @@
 <?php
-$con=new mysqli('localhost','root','', "travian");
+$con=new mysqli('localhost','root','', "webshop");
 ?>
